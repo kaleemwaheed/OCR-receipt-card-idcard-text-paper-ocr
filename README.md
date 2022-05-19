@@ -7,6 +7,7 @@ I have worked on the following projects which are live and with good accuracy:
 2. OCR for medical records
 3. OCR for ID cards
 4. OCR for car / vehicle license plates 
+5. Digital Forms OCR
 
 Libraries I usually used for this type of problem:
 1. Yolo5 with Tesseract
